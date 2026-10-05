@@ -1,0 +1,6 @@
+{
+  "name": "Woodland Worldwide | Rugged Outdoor Shoes, Boots & Gear",
+  "description": "Explore Woodland Worldwide's official collection of rugged outdoor boots, hiking shoes, technical adventure apparel, backpacks, and ProPlanet eco-friendly gear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
